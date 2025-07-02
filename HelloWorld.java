@@ -1,6 +1,3 @@
-// Program Java pertama - Hello World
-// File ini mendemonstrasikan struktur dasar program Java
-
 public class HelloWorld {
     // Method main adalah titik masuk utama program Java
     // Setiap program Java harus memiliki method main
@@ -15,3 +12,5 @@ public class HelloWorld {
         System.out.println("dalam satu baris");
     }
 }
+
+

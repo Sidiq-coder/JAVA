@@ -1,6 +1,3 @@
-// Method (Fungsi) dalam Java
-// File ini mendemonstrasikan penggunaan method dalam Java
-
 public class Method {
     
     // Method tanpa parameter dan tanpa return value

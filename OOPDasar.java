@@ -1,7 +1,3 @@
-// Pemrograman Berorientasi Objek (OOP) - Class dan Object
-// File ini mendemonstrasikan konsep dasar OOP dalam Java
-
-// Class untuk merepresentasikan Mahasiswa
 class Mahasiswa {
     // Atribut/Properties (instance variables)
     private String nama;

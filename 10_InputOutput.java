@@ -1,6 +1,3 @@
-// Input dan Output dalam Java
-// File ini mendemonstrasikan berbagai cara input dan output di Java
-
 import java.util.Scanner;
 import java.io.*;
 import java.text.DecimalFormat;

@@ -1,6 +1,3 @@
-// Array dalam Java
-// File ini mendemonstrasikan penggunaan array satu dimensi dan multi dimensi
-
 public class Array {
     public static void main(String[] args) {
         

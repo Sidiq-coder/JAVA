@@ -1,6 +1,3 @@
-// Operator dalam Java
-// File ini mendemonstrasikan berbagai jenis operator yang tersedia
-
 public class Operator {
     public static void main(String[] args) {
         // Deklarasi variabel untuk contoh

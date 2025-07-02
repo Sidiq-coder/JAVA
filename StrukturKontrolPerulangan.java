@@ -1,6 +1,3 @@
-// Struktur Kontrol - Perulangan (Loop)
-// File ini mendemonstrasikan berbagai jenis perulangan dalam Java
-
 public class StrukturKontrolPerulangan {
     public static void main(String[] args) {
         

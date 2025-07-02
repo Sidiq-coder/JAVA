@@ -1,6 +1,3 @@
-// Tipe Data dan Variabel dalam Java
-// File ini mendemonstrasikan berbagai tipe data yang tersedia di Java
-
 public class TipeDataVariabel {
     public static void main(String[] args) {
         // TIPE DATA PRIMITIF

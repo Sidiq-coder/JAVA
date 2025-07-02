@@ -1,7 +1,3 @@
-// Inheritance (Pewarisan) dalam Java
-// File ini mendemonstrasikan konsep inheritance dalam OOP
-
-// Class parent/superclass/base class
 class Kendaraan {
     // Atribut protected - dapat diakses oleh subclass
     protected String merk;

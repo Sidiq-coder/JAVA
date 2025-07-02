@@ -1,6 +1,3 @@
-// Latihan dan Contoh Project Java
-// File ini berisi berbagai latihan untuk mempraktikkan konsep yang telah dipelajari
-
 import java.util.Scanner;
 import java.util.ArrayList;
 import java.util.Random;

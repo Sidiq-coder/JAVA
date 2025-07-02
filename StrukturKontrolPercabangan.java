@@ -1,6 +1,3 @@
-// Struktur Kontrol - If-Else, Switch
-// File ini mendemonstrasikan penggunaan percabangan dalam Java
-
 import java.util.Scanner;
 
 public class StrukturKontrolPercabangan {
